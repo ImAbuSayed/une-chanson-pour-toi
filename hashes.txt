@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Chanson Pour Toi
+
+This log tracks the cryptographic history and versioning for the song **Une Chanson Pour Toi** (une-chanson-pour-toi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T18:59:43.107184 | `v1` | `47acb97ef7ff1334a0aad66db067cbc49f9caedd97e6ffab74b9f87a84aa1a16` | `b8bb460a94551d02bc255b15e1f627140a940f46a7bb0d9e0cfb42f33e543e3a` | `2026-06-26_une-chanson-pour-toi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

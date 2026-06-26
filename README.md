@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-chanson-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Une Chanson Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chanson-pour-toi/) |
+| **Get License** | [Get License For Une Chanson Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chanson-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `47acb97ef7ff1334a0aad66db067cbc49f9caedd97e6ffab74b9f87a84aa1a16` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
