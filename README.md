@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-chanson-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Une Chanson Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chanson-pour-toi/) |
+| **Get License** | [Get a Licensing Quote for Une Chanson Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chanson-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'te vois dans le club, baby, ton body m'appelle
+> Sous les néons de Paname, tu shines, t'es la plus belle
+> Viens closer, laisse les autres, on oublie tout le reste
+> Ce soir l'amour est king, babe, rien ne nous arrête
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
